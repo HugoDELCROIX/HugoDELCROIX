@@ -6,9 +6,9 @@
 
 ### 🌍 **Web Development**:
 
-<img align="left" alt="VueJS" width="26px" src="https://bit.ly/342XK69" />
+<img align="left" alt="VueJS" width="26px" src="https://bit.ly/3HvzY0n" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/3K2ZRGv" />
+<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/3Iww8VT" />
 
 <br />
 
