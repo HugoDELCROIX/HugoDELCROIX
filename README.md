@@ -6,9 +6,9 @@
 
 ### 🌍 **Web Development**:
 
-[<img align="left" alt="VueJS" width="26px" src="https://bit.ly/342XK69" />]
+<img align="left" alt="VueJS" width="26px" src="https://bit.ly/342XK69" />
 
-[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/3K2ZRGv" />]
+<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/3K2ZRGv" />
 
 <br />
 
@@ -21,6 +21,9 @@
 ### 📝 **Database Management**:
 
 [<img align="left" alt="mySQL" width="26px" src="https://bit.ly/3tCzKQj" />][mySQL]
+[<img align="left" alt="MongoDB" width="26px" src="https://bit.ly/3hyVpmt" />][mongodb]
+
+
 
 <br />
 
@@ -33,7 +36,7 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://bit.ly/3prp45B" />][androidstudio]
 
 
-
+[mongodb]:https://www.mongodb.com/fr-fr
 [mySQL]:https://www.mysql.com/fr/
 [androidstudio]:https://developer.android.com/studio
 [vscode]:https://code.visualstudio.com/
