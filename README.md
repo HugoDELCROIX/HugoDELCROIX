@@ -6,20 +6,20 @@
 
 ### 🌍 **Web Development**:
 
-<img align="left" alt="HTML5 & CSS3" width="32px" src="https://bit.ly/3HATJDI" />
+<img align="left" alt="HTML5 & CSS3" width="48px" src="https://bit.ly/3HATJDI" />
 
 <br />
 
 ### 📝 **Programming Languages**:
 
-[<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java]
+[<img align="left" alt="Java" width="39px" src="https://bit.ly/3mP8H1U" />][java]
 
 <br />
 
 ### 📊 **Database Management**:
 
-[<img align="left" alt="mySQL" width="26px" src="https://bit.ly/3tCzKQj" />][mySQL]
-[<img align="left" alt="MongoDB" width="26px" src="https://bit.ly/3hyVpmt" />][mongodb]
+[<img align="left" alt="mySQL" width="39px" src="https://bit.ly/3tCzKQj" />][mySQL]
+[<img align="left" alt="MongoDB" width="39px" src="https://bit.ly/3hyVpmt" />][mongodb]
 
 
 
@@ -27,11 +27,11 @@
 
 ### 🔧 **My Tools**:
 
-[<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
+[<img align="left" alt="Fedora" width="39px" src="https://bit.ly/3bPDoxC" />][fedora]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="39px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
-[<img align="left" alt="Android Studio" width="26px" src="https://bit.ly/3prp45B" />][androidstudio]
+[<img align="left" alt="Android Studio" width="39px" src="https://bit.ly/3prp45B" />][androidstudio]
 
 
 [mongodb]:https://www.mongodb.com/fr-fr
