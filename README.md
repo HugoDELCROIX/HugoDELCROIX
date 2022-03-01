@@ -9,11 +9,13 @@
 <img align="left" alt="HTML5 & CSS3" width="48px" src="https://bit.ly/3HATJDI" />
 
 <br>
+<br>
 
 ### 📝 **Programming Languages**:
 
 [<img align="left" alt="Java" width="39px" src="https://bit.ly/3mP8H1U" />][java]
 
+<br>
 <br>
 
 ### 📊 **Database Management**:
