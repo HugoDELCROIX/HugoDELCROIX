@@ -6,9 +6,7 @@
 
 ### 🌍 **Web Development**:
 
-<img align="left" alt="HTML5" width="26px" src="https://bit.ly/35EFsIJ" />
-
-<img align="left" alt="CSS3" width="26px" src="https://bit.ly/3Me4W0s" />
+<img align="left" alt="HTML5 & CSS3" width="26px" src="https://bit.ly/3McpOp6" />
 
 <br />
 
