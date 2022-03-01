@@ -16,7 +16,7 @@
 
 <br />
 
-### 📝 **Database Management**:
+### 📊 **Database Management**:
 
 [<img align="left" alt="mySQL" width="26px" src="https://bit.ly/3tCzKQj" />][mySQL]
 [<img align="left" alt="MongoDB" width="26px" src="https://bit.ly/3hyVpmt" />][mongodb]
