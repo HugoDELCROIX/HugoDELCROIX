@@ -21,7 +21,7 @@
 ### 📊 **Database Management**:
 
 [<img align="left" alt="mySQL" width="39px" src="https://bit.ly/35EJP6B" />][mySQL]
-[<img align="left" alt="MongoDB" width="39px" src="https://bit.ly/3hyVpmt" />][mongodb]
+<!--[<img align="left" alt="MongoDB" width="39px" src="https://bit.ly/3hyVpmt" />][mongodb]-->
 
 
 <br>
