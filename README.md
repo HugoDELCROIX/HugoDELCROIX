@@ -50,8 +50,8 @@
 
 <p align="center">
   
-<a href="https://github.com/HugoDELCROIX/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=Portfolio" />
+<a href="https://github.com/HugoDELCROIX/Hangman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=Hangman" />
 </a>
 <a href="https://github.com/HugoDELCROIX/JokeOverflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=JokeOverflow" />
