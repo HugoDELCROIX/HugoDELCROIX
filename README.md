@@ -1,12 +1,25 @@
+<style>
+    #flexbox{
+        display : flex;
+        gap : 50px;
+        justify-content: space-between;
+    }
+</style>
+
+
 [website]:https://hugodelcroix.fr
 ## Hi there, I'm [Hugo][website] 👋
 
 - 🌱 Currently learning Android Development
 - 🎯 Aiming to build my own website and mobile app 🤔
 
-### 🌍 **Web Development**:
+<div id="flexbox">
 
-<img align="left" alt="HTML5 & CSS3" width="48px" src="https://bit.ly/3HATJDI" />
+<div id="left>
+
+### 🌍 **Web Development**: 
+
+<img align="left" alt="HTML5 & CSS3" width="48px" src="https://bit.ly/3HATJDI" /> 
 
 <br>
 <br>
@@ -35,15 +48,18 @@
 
 [<img align="left" alt="Android Studio" width="39px" src="https://bit.ly/3prp45B" />][androidstudio]
 
-<br>
-<br>
-<br>
+</div>
+
+<div id="right">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDELCROIX&layout=compact&langs_count=10)
 
+
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDELCROIX&hide=issues,contribs&count_private=true&show_icons=true)
 
+</div>
 
+</div>
 
 
 [mongodb]:https://www.mongodb.com/fr-fr
