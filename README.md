@@ -1,14 +1,8 @@
-<link rel="stylesheet" type="text/css" media="all" href="style.css" />
-
 [website]:https://hugodelcroix.fr
 ## Hi there, I'm [Hugo][website] 👋
 
 - 🌱 Currently learning Android Development
 - 🎯 Aiming to build my own website and mobile app 🤔
-
-<div id="flexbox">
-
-<div id="left>
 
 ### 🌍 **Web Development**: 
 
@@ -41,20 +35,16 @@
 
 [<img align="left" alt="Android Studio" width="39px" src="https://bit.ly/3prp45B" />][androidstudio]
 
-</div>
+<br>
+<br>
+<br>
 
-<div id="right">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDELCROIX&layout=compact&langs_count=10)
 
-
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDELCROIX&hide=issues,contribs&count_private=true&show_icons=true)
 
-</div>
-
-</div>
-
-
+ 
 [mongodb]:https://www.mongodb.com/fr-fr
 [mySQL]:https://www.mysql.com/fr/
 [androidstudio]:https://developer.android.com/studio
