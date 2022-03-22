@@ -39,20 +39,26 @@
 <br>
 <br>
 
-<center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDELCROIX&layout=compact&langs_count=10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDELCROIX&layout=compact&langs_count=10">
+</p>
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDELCROIX&hide=issues,contribs&count_private=true&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoDELCROIX&hide=issues,contribs&count_private=true&show_icons=true">
+</p>
 
-</center>
-
+<p align="center">
+  
 <a href="https://github.com/HugoDELCROIX/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=Portfolio" />
 </a>
 <a href="https://github.com/HugoDELCROIX/JokeOverflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=JokeOverflow" />
 </a>
+  
+</p>
+
 
  
 [mongodb]:https://www.mongodb.com/fr-fr
