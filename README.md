@@ -2,7 +2,7 @@
 ## Hi there, I'm [Hugo][website] 👋
 
 - 🌱 Currently learning Android Development
-- 🎯 Aiming to build my own website and mobile app 🤔
+- 🎯 Aiming to build an Handman game with Java 🤔
 
 ### 🌍 **Web Development**: 
 
