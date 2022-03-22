@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="URL" />
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
 
 [website]:https://hugodelcroix.fr
 ## Hi there, I'm [Hugo][website] 👋
