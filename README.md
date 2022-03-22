@@ -35,6 +35,16 @@
 
 [<img align="left" alt="Android Studio" width="39px" src="https://bit.ly/3prp45B" />][androidstudio]
 
+<br>
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDELCROIX&layout=compact&langs_count=10)
+
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDELCROIX&hide=issues,contribs&count_private=true&show_icons=true)
+
+
+
 
 [mongodb]:https://www.mongodb.com/fr-fr
 [mySQL]:https://www.mysql.com/fr/
