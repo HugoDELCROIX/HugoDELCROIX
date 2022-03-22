@@ -39,10 +39,20 @@
 <br>
 <br>
 
+<center>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDELCROIX&layout=compact&langs_count=10)
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDELCROIX&hide=issues,contribs&count_private=true&show_icons=true)
+
+</center>
+
+<a href="https://github.com/HugoDELCROIX/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=Portfolio" />
+</a>
+<a href="https://github.com/HugoDELCROIX/JokeOverflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=JokeOverflow" />
+</a>
 
  
 [mongodb]:https://www.mongodb.com/fr-fr
