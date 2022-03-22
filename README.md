@@ -1,11 +1,4 @@
-<style>
-    #flexbox{
-        display : flex;
-        gap : 50px;
-        justify-content: space-between;
-    }
-</style>
-
+<link rel="stylesheet" type="text/css" media="all" href="URL" />
 
 [website]:https://hugodelcroix.fr
 ## Hi there, I'm [Hugo][website] 👋
