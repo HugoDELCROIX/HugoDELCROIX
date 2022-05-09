@@ -59,6 +59,7 @@
   
 </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HugoDELCROIX&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 [mongodb]:https://www.mongodb.com/fr-fr
