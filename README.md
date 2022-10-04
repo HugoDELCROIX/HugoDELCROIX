@@ -50,11 +50,11 @@
 
 <p align="center">
   
-<a href="https://github.com/HugoDELCROIX/Hangman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=Hangman" />
+<a href="https://github.com/HugoDELCROIX/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=Portfolio" />
 </a>
-<a href="https://github.com/HugoDELCROIX/JokeOverflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=JokeOverflow" />
+<a href="https://github.com/HugoDELCROIX/wee-caraspiration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=wee-caraspiration" />
 </a>
   
 </p>
