@@ -53,8 +53,8 @@
 <a href="https://github.com/HugoDELCROIX/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=Portfolio" />
 </a>
-<a href="https://github.com/HugoDELCROIX/wee-caraspiration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=wee-caraspiration" />
+<a href="https://github.com/HugoDELCROIX/design4green">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoDELCROIX&repo=design4green" />
 </a>
   
 </p>
